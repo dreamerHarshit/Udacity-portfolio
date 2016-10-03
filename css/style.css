@@ -10,9 +10,12 @@ body {
 
 }
 
-hr {
-    border-top: 5px solid #BCBBBB;
-
+.top {
+    border-bottom-style: solid ;
+    border-bottom-width: 5px;
+    border-bottom-color: #bcbbbb;
+    margin-bottom: 20px;
+    padding: 10px
 }
 
 h2 {
@@ -24,11 +27,11 @@ h3 {
     margin-top: 0px
 }
 
-.headerLogo {
-    margin-top: 20px;
+.container_top{
+    margin-top: 13px;
+    margin-bottom:  13px;
 }
 
-.container_top{
-    margin-top:13px;
-    margin-bottom:13px;
+.im{
+    width: 100%
 }
