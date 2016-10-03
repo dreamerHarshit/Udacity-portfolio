@@ -5,27 +5,29 @@ body {
 }
 
 .largeText {
-    font-weight:100;
+    font-weight: 100;
     font-size: 60px;
+
 }
+
 hr {
     border-top: 5px solid #BCBBBB;
+
 }
+
 h2 {
     margin-left: 20px;
-    color: #BCBBBB;
+    color: #bcbbbb;
 }
+
 h3 {
     margin-top: 0px
 }
+
 .headerLogo {
     margin-top: 20px;
 }
-.features p {
-    font-size: 24px;
-    text-transform: uppercase;
-    font-weight: 700;
-}
+
 .container_top{
     margin-top:13px;
     margin-bottom:13px;
